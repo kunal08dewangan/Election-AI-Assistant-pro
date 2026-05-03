@@ -1,4 +1,4 @@
-# 🇮🇳 Smart Indian AI Election Assistant
+
 
 ## 📌 Overview
 
